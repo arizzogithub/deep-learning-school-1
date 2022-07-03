@@ -1,4 +1,4 @@
-<h1 style="text-align:center">Deep Learning School</h1>
+#<h1 style="text-align:center">Deep Learning School</h1>
 
 <p align="center">
  <img src="_static/logo_readme.png" width=1280>
